@@ -1,3 +1,3 @@
 # Sound event detection
 
-<img src="sed.png">
+<img src="SED.png">
