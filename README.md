@@ -1,2 +1,3 @@
-# sound-event-detection
-Sound event detection
+# Sound event detection
+
+<img src="sed.png">
